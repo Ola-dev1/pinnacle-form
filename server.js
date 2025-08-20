@@ -11,8 +11,7 @@ const app = express();
 app.use(
     cors({
         origin:
-            "https://pinnacle-form.onrender.com"
-        ,
+ "https://pinnacle-application-form.netlify.app"        ,
         methods: ["GET", "POST"],
         allowedHeaders: ["Content-Type"],
     })
