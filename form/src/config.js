@@ -1,1 +1,1 @@
-export const API_URL = "https://pinnacle-backend.onrender.com";
+export const API_URL = "https://pinnacle-form-application.onrender.com/"
